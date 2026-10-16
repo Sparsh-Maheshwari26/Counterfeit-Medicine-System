@@ -1,0 +1,6 @@
+Project name: Counterfeit Medicine System
+Stack: Python + Streamlit + SQLite
+Visual style: clean Dribbble-inspired blue and pale-blue healthcare dashboard
+Core pages: Overview, Verify Medicine, Medicine Database, How It Works
+Data sync target: 500 unique product listing records from the openFDA NDC Directory
+Critical limitation: source records are product listings, not batch verification certificates. The app must never label a medicine genuine based only on a match.

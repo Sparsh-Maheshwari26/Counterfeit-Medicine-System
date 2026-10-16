@@ -1,0 +1,13 @@
+record_key,brand_name,generic_name,active_ingredients,strength,labeler_name,product_ndc,package_ndc,dosage_form,route,product_type,marketing_start_date,marketing_end_date,listing_expiration_date,manufacturer_country,source_type,source_name,source_url,synced_at
+DEMO-0001,DEMO Paracetamol 500,Paracetamol,Paracetamol,500 mg,Demo Therapeutics Ltd.,DEMO-001,DEMO-PKG-001,Tablet,Oral,Demo record,,,,Demo only,demo,Fictional UI demo data, ,
+DEMO-0002,DEMO Cetirizine 10,Cetirizine,Cetirizine,10 mg,Demo Therapeutics Ltd.,DEMO-002,DEMO-PKG-002,Tablet,Oral,Demo record,,,,Demo only,demo,Fictional UI demo data, ,
+DEMO-0003,DEMO Ibuprofen 200,Ibuprofen,Ibuprofen,200 mg,Demo Therapeutics Ltd.,DEMO-003,DEMO-PKG-003,Tablet,Oral,Demo record,,,,Demo only,demo,Fictional UI demo data, ,
+DEMO-0004,DEMO Amoxicillin 500,Amoxicillin,Amoxicillin,500 mg,Demo Therapeutics Ltd.,DEMO-004,DEMO-PKG-004,Capsule,Oral,Demo record,,,,Demo only,demo,Fictional UI demo data, ,
+DEMO-0005,DEMO Omeprazole 20,Omeprazole,Omeprazole,20 mg,Demo Therapeutics Ltd.,DEMO-005,DEMO-PKG-005,Capsule,Oral,Demo record,,,,Demo only,demo,Fictional UI demo data, ,
+DEMO-0006,DEMO Metformin 500,Metformin,Metformin,500 mg,Demo Therapeutics Ltd.,DEMO-006,DEMO-PKG-006,Tablet,Oral,Demo record,,,,Demo only,demo,Fictional UI demo data, ,
+DEMO-0007,DEMO Azithromycin 250,Azithromycin,Azithromycin,250 mg,Demo Therapeutics Ltd.,DEMO-007,DEMO-PKG-007,Tablet,Oral,Demo record,,,,Demo only,demo,Fictional UI demo data, ,
+DEMO-0008,DEMO Vitamin C 500,Ascorbic acid,Ascorbic acid,500 mg,Demo Therapeutics Ltd.,DEMO-008,DEMO-PKG-008,Tablet,Oral,Demo record,,,,Demo only,demo,Fictional UI demo data, ,
+DEMO-0009,DEMO Pantoprazole 40,Pantoprazole,Pantoprazole,40 mg,Demo Therapeutics Ltd.,DEMO-009,DEMO-PKG-009,Tablet,Oral,Demo record,,,,Demo only,demo,Fictional UI demo data, ,
+DEMO-0010,DEMO ORS Sachet,Oral rehydration salts,Glucose; sodium chloride; potassium chloride; trisodium citrate,Standard sachet,Demo Therapeutics Ltd.,DEMO-010,DEMO-PKG-010,Powder,Oral,Demo record,,,,Demo only,demo,Fictional UI demo data, ,
+DEMO-0011,DEMO Salbutamol Inhaler,Salbutamol,Salbutamol,100 mcg per actuation,Demo Therapeutics Ltd.,DEMO-011,DEMO-PKG-011,Aerosol,Inhalation,Demo record,,,,Demo only,demo,Fictional UI demo data, ,
+DEMO-0012,DEMO Diclofenac Gel,Diclofenac,Diclofenac,1%,Demo Therapeutics Ltd.,DEMO-012,DEMO-PKG-012,Gel,Topical,Demo record,,,,Demo only,demo,Fictional UI demo data, ,
